@@ -1,4 +1,4 @@
-*This repository contains several projects made in MS Power BI*
+*This repository contains several projects made in MS Power BI which I created during my learning*
 
 -----------------------------------------------------------------------------------------------
 
@@ -8,9 +8,9 @@
 
 ➦ build a Relational Data Model ✔️
 
-➦ add Calculated Fields with DAX
+➦ add Calculated Fields with DAX ✔️
 
-➦ design Interactive Power BI Reports
+➦ design Interactive Power BI Reports ✔️
 
 -----------------------------------------------------------------------------------------------
 
