@@ -16,7 +16,8 @@
 
 **📈 Project 1**
 
-*NotOnlyBikes Sales*
+***NotOnlyBikes Sales*** <br/>
+*The project was done by me during the 'Microsoft Power BI Desktop for Business Intelligence' course provided by Maven Analytics*
 
 **📈 Project 2**
 
