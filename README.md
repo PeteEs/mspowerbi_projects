@@ -14,14 +14,18 @@
 
 -----------------------------------------------------------------------------------------------
 
-**📈 Project 1**
+**📈 Project 1** <br/>
 
 ***NotOnlyBikes Sales*** <br/>
-*The project was done by me during the 'Microsoft Power BI Desktop for Business Intelligence' course provided by Maven Analytics*
+*The project was done by me during the 'Microsoft Power BI Desktop for Business Intelligence' <br/>
+course provided by Maven Analytics. It's about the performance of the cycle shop.*
 
-**📈 Project 2**
+***📈 Project 2*** <br/>
 
-..
+***Market Performance*** <br/>
+*The project was done by me during the 'Microsoft Power BI Desktop for Business Intelligence' <br/>
+course provided by Maven Analytics. It's about the performance of a supermarket chain located in USA, MEX, CAN.*
+
 
 **📈 Project 3**
 
