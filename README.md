@@ -32,3 +32,10 @@ course provided by Maven Analytics. It's about the performance of a supermarket 
 ***Shark Attacks*** <br/>
 *The project was done by me using data from data_playground from the Maven Analytics site. <br/>
 It's about the shark attacks around the globe from 1950 to 2016.*
+
+
+**📈 Project 4** <br/>
+
+***Properties for Sale*** <br/>
+*The project was done by me during one of bootcamps using data from page with real estate for sale. <br/>
+It's App-Like report and it contains the report itself and a search engine for real estate.*
